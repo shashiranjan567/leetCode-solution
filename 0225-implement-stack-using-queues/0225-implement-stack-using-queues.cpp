@@ -1,4 +1,4 @@
-struct MyStack {
+class MyStack {
 public:
 
 queue <int> q1, q2;
