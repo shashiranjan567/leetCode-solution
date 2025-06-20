@@ -35,9 +35,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shashiranjan567/leetCode-solution/tree/master/0078-subsets) |
 | [0792-binary-search](https://github.com/shashiranjan567/leetCode-solution/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/shashiranjan567/leetCode-solution/tree/master/0792-binary-search) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shashiranjan567/leetCode-solution/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shashiranjan567/leetCode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
