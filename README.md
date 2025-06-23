@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shashiranjan567/leetCode-solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shashiranjan567/leetCode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0090-subsets-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/shashiranjan567/leetCode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/shashiranjan567/leetCode-solution/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
 ## Binary Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shashiranjan567/leetCode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
 ## Sliding Window
 |  |
@@ -66,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shashiranjan567/leetCode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
