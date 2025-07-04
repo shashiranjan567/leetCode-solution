@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/shashiranjan567/leetCode-solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shashiranjan567/leetCode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0090-subsets-ii) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
