@@ -5,14 +5,14 @@ public:
 
         for (int bill : bills) {
             if (bill == 5) {
-                five++; // no change needed
+                five++; 
             } 
             else if (bill == 10) {
-                if (five == 0) return false; // can't give $5 change
+                if (five == 0) return false; 
                 five--;
                 ten++;
             } 
-            else { // bill == 20
+            else { 
                 if (ten > 0 && five > 0) {
                     ten--;
                     five--;
