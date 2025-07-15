@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shashiranjan567/leetCode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/shashiranjan567/leetCode-solution/tree/master/0485-max-consecutive-ones) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
