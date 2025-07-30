@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/shashiranjan567/leetCode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shashiranjan567/leetCode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [1078-remove-outermost-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1078-remove-outermost-parentheses) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashiranjan567/leetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashiranjan567/leetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0102-binary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
