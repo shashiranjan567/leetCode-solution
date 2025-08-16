@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/shashiranjan567/leetCode-solution/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/shashiranjan567/leetCode-solution/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1646-kth-missing-positive-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shashiranjan567/leetCode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shashiranjan567/leetCode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Two Pointers
 |  |
 | ------- |
