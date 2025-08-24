@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shashiranjan567/leetCode-solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shashiranjan567/leetCode-solution/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2032-largest-odd-number-in-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shashiranjan567/leetCode-solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shashiranjan567/leetCode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/0136-single-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashiranjan567/leetCode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/shashiranjan567/leetCode-solution/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2032-largest-odd-number-in-string) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shashiranjan567/leetCode-solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
