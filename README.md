@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/shashiranjan567/leetCode-solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2032-largest-odd-number-in-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shashiranjan567/leetCode-solution/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/shashiranjan567/leetCode-solution/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/shashiranjan567/leetCode-solution/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/shashiranjan567/leetCode-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shashiranjan567/leetCode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shashiranjan567/leetCode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0090-subsets-ii) |
