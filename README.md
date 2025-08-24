@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/shashiranjan567/leetCode-solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shashiranjan567/leetCode-solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/shashiranjan567/leetCode-solution/tree/master/0485-max-consecutive-ones) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashiranjan567/leetCode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shashiranjan567/leetCode-solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shashiranjan567/leetCode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shashiranjan567/leetCode-solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/shashiranjan567/leetCode-solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
