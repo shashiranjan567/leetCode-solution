@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/shashiranjan567/leetCode-solution/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shashiranjan567/leetCode-solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shashiranjan567/leetCode-solution/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0543-diameter-of-binary-tree) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashiranjan567/leetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0543-diameter-of-binary-tree) |
