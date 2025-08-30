@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shashiranjan567/leetCode-solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shashiranjan567/leetCode-solution/tree/master/0066-plus-one) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shashiranjan567/leetCode-solution/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shashiranjan567/leetCode-solution/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1013-fibonacci-number) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shashiranjan567/leetCode-solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
