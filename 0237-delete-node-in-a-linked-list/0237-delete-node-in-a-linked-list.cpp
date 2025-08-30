@@ -6,13 +6,19 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+//T.C : O(n)
+//S.C : O(1)
 class Solution {
 public:
     void deleteNode(ListNode* node) {
-       node-> val= node -> next -> val;
-       ListNode* temp = node-> next;
-       node -> next = node -> next -> next;
-       delete temp;
-
+        ListNode* prev = NULL;
+        
+        while(node && node->next) {
+            node->val = node->next->val;
+            prev = node;
+            node = node->next;
+        }
+        delete(node);
+        prev->next = NULL;
     }
 };
