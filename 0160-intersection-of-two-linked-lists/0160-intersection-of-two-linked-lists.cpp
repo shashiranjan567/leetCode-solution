@@ -9,19 +9,70 @@
 
  
 
+//Approach-1
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        if (!headA || !headB) return nullptr;
-
-        ListNode* a = headA;
-        ListNode* b = headB;
-
-        while (a != b) {
-            a = (a == nullptr) ? headB : a->next;
-            b = (b == nullptr) ? headA : b->next;
+        ListNode* tempA = headA;
+        ListNode* tempB = headB;
+        
+        while(true) {
+            if(tempA == tempB)
+                return tempA;
+            if(tempA)
+                tempA = tempA->next;
+            else
+                tempA = headA;
+            
+            if(tempB)
+                tempB = tempB->next;
+            else
+                tempB = headB;
         }
-
-        return a; // either intersection node or nullptr
+        return NULL;
     }
 };
+/*
+//Approach-2
+class Solution {
+public:
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        int sizeA = 0;
+        int sizeB = 0;
+        
+        ListNode* tempA = headA;
+        ListNode* tempB = headB;
+        
+        while(tempA) {
+            sizeA++;
+            tempA = tempA->next;
+        }
+        while(tempB) {
+            sizeB++;
+            tempB = tempB->next;
+        }
+        tempA = headA;
+        tempB = headB;
+        int diff = abs(sizeA-sizeB);
+        if(sizeA > sizeB) {
+            tempB = headB;
+            while(diff > 0 && tempA) {
+                tempA = tempA->next;
+                diff--;
+            }
+        } else {
+            tempA = headA;
+            while(diff > 0 && tempB) {
+                tempB = tempB->next;
+                diff--;
+            }
+        }
+        
+        while(tempA && tempB && tempA != tempB) {
+            tempA = tempA->next;
+            tempB = tempB->next;
+        }
+        
+        return tempA;
+    }
+};*/
