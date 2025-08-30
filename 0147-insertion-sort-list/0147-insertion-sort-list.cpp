@@ -8,34 +8,36 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+//T.C : O(n^2)
+//S.C : O(1)
 class Solution {
 public:
     ListNode* insertionSortList(ListNode* head) {
-        if (!head || !head->next) return head;
-
-        ListNode* dummy = new ListNode(0); // dummy before sorted list
-        dummy->next = head;
-        ListNode* lastSorted = head;      // end of sorted portion
-        ListNode* curr = head->next;      // node to insert
-
-        while (curr != nullptr) {
-            if (lastSorted->val <= curr->val) {
-                // Already in correct position
-                lastSorted = curr;
-            } else {
-                // Need to insert curr in sorted portion
-                ListNode* prev = dummy;
-                while (prev->next->val <= curr->val) {
-                    prev = prev->next;
-                }
-                // Insert curr after prev
-                lastSorted->next = curr->next;
-                curr->next = prev->next;
-                prev->next = curr;
+        if(!head || !head->next)
+            return head;
+        
+        ListNode* newHead = new ListNode(-1);
+        ListNode* curr    = head;
+        while(curr) {
+            ListNode* prev    = newHead;
+            ListNode* nxt     = newHead->next;
+            while(nxt) {
+                if(curr->val < nxt->val)
+                    break;
+                prev = nxt;
+                nxt = nxt->next;
             }
-            curr = lastSorted->next; // Move to next node
+            
+            //Simple example to understand the steps below :
+            //Think about [1 , 2 , 4, 3]
+            //curr = 3
+            //nxt  = 4
+            //prev = 2
+            ListNode* temp = curr->next; //storing for curr next iteration
+            curr->next     = nxt;   //3->4
+            prev->next     = curr;  //2->3
+            curr = temp;
         }
-
-        return dummy->next;
+        return newHead->next;
     }
 };
