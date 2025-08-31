@@ -8,17 +8,19 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+//T.C : O(n)
+//S.C : O(1)
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
-
-        while (fast != nullptr && fast -> next != nullptr) {
-            slow = slow-> next;
-            fast = fast -> next -> next;
-        }
-        return slow;
+        ListNode* first  = head;
+        ListNode* second = head;
         
+        while(first && second && second->next) {
+            first = first->next;
+            second = second->next->next;
+        }
+        
+        return first;
     }
 };
