@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/shashiranjan567/leetCode-solution/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0445-add-two-numbers-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/shashiranjan567/leetCode-solution/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
