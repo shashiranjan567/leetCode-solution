@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shashiranjan567/leetCode-solution/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/shashiranjan567/leetCode-solution/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shashiranjan567/leetCode-solution/tree/master/0067-add-binary) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/shashiranjan567/leetCode-solution/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Doubly-Linked List
 |  |
 | ------- |
