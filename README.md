@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shashiranjan567/leetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/shashiranjan567/leetCode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0227-basic-calculator-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shashiranjan567/leetCode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shashiranjan567/leetCode-solution/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shashiranjan567/leetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0227-basic-calculator-ii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shashiranjan567/leetCode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shashiranjan567/leetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0189-rotate-array) |
