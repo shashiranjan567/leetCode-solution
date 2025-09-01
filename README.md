@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/shashiranjan567/leetCode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/shashiranjan567/leetCode-solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shashiranjan567/leetCode-solution/tree/master/0735-asteroid-collision) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shashiranjan567/leetCode-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/0394-decode-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/shashiranjan567/leetCode-solution/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
