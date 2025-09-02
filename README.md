@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/shashiranjan567/leetCode-solution/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/shashiranjan567/leetCode-solution/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/shashiranjan567/leetCode-solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shashiranjan567/leetCode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shashiranjan567/leetCode-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shashiranjan567/leetCode-solution/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/shashiranjan567/leetCode-solution/tree/master/0085-maximal-rectangle) |
 | [1013-fibonacci-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1013-fibonacci-number) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/shashiranjan567/leetCode-solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Recursion
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/shashiranjan567/leetCode-solution/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/shashiranjan567/leetCode-solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shashiranjan567/leetCode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shashiranjan567/leetCode-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
