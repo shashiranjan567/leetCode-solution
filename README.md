@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/shashiranjan567/leetCode-solution/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shashiranjan567/leetCode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shashiranjan567/leetCode-solution/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0143-reorder-list) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shashiranjan567/leetCode-solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shashiranjan567/leetCode-solution/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/shashiranjan567/leetCode-solution/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0227-basic-calculator-ii) |
