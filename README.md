@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shashiranjan567/leetCode-solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shashiranjan567/leetCode-solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shashiranjan567/leetCode-solution/tree/master/0739-daily-temperatures) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shashiranjan567/leetCode-solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/shashiranjan567/leetCode-solution/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shashiranjan567/leetCode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/shashiranjan567/leetCode-solution/tree/master/0682-baseball-game) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shashiranjan567/leetCode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shashiranjan567/leetCode-solution/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shashiranjan567/leetCode-solution/tree/master/0739-daily-temperatures) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2573-remove-nodes-from-linked-list) |
 ## Matrix
