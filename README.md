@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1755-defuse-the-bomb](https://github.com/shashiranjan567/leetCode-solution/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shashiranjan567/leetCode-solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shashiranjan567/leetCode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shashiranjan567/leetCode-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shashiranjan567/leetCode-solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/shashiranjan567/leetCode-solution/tree/master/3447-clear-digits) |
 ## Linked List
