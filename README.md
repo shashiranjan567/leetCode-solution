@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shashiranjan567/leetCode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shashiranjan567/leetCode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/shashiranjan567/leetCode-solution/tree/master/0987-reveal-cards-in-increasing-order) |
+| [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shashiranjan567/leetCode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
+| [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/shashiranjan567/leetCode-solution/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shashiranjan567/leetCode-solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashiranjan567/leetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 ## Quickselect
 |  |
 | ------- |
@@ -469,4 +473,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shashiranjan567/leetCode-solution/tree/master/0085-maximal-rectangle) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
