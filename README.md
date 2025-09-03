@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/shashiranjan567/leetCode-solution/tree/master/1552-build-an-array-with-stack-operations) |
 | [1646-kth-missing-positive-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/shashiranjan567/leetCode-solution/tree/master/1720-crawler-log-folder) |
+| [1755-defuse-the-bomb](https://github.com/shashiranjan567/leetCode-solution/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shashiranjan567/leetCode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashiranjan567/leetCode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
+| [1755-defuse-the-bomb](https://github.com/shashiranjan567/leetCode-solution/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
