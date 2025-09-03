@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shashiranjan567/leetCode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shashiranjan567/leetCode-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/shashiranjan567/leetCode-solution/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/shashiranjan567/leetCode-solution/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/shashiranjan567/leetCode-solution/tree/master/0983-validate-stack-sequences) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/shashiranjan567/leetCode-solution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shashiranjan567/leetCode-solution/tree/master/1552-build-an-array-with-stack-operations) |
 | [1646-kth-missing-positive-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1646-kth-missing-positive-number) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shashiranjan567/leetCode-solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0726-number-of-atoms](https://github.com/shashiranjan567/leetCode-solution/tree/master/0726-number-of-atoms) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/shashiranjan567/leetCode-solution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shashiranjan567/leetCode-solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shashiranjan567/leetCode-solution/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/shashiranjan567/leetCode-solution/tree/master/0983-validate-stack-sequences) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/shashiranjan567/leetCode-solution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shashiranjan567/leetCode-solution/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shashiranjan567/leetCode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shashiranjan567/leetCode-solution/tree/master/2299-merge-nodes-in-between-zeros) |
