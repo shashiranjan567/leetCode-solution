@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Data Stream
 |  |
 | ------- |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shashiranjan567/leetCode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0623-add-one-row-to-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Simulation
 |  |
 | ------- |
