@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shashiranjan567/leetCode-solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shashiranjan567/leetCode-solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shashiranjan567/leetCode-solution/tree/master/0739-daily-temperatures) |
+| [0772-construct-quad-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/shashiranjan567/leetCode-solution/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/shashiranjan567/leetCode-solution/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0772-construct-quad-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0772-construct-quad-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shashiranjan567/leetCode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0669-trim-a-binary-search-tree) |
+| [0772-construct-quad-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0772-construct-quad-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashiranjan567/leetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/shashiranjan567/leetCode-solution/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shashiranjan567/leetCode-solution/tree/master/0085-maximal-rectangle) |
+| [0772-construct-quad-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0772-construct-quad-tree) |
 ## Ordered Set
 |  |
 | ------- |
