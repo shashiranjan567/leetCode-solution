@@ -9,23 +9,33 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//T.C : O(n)
+//S.C : O(depth of tree) - Recursion System Stack Space
 class Solution {
 public:
-int maxDiameter = 0;
-int height (TreeNode* root) {
-    if (root == NULL) return 0;
-
-    int left = height(root->left);
-    int right = height(root->right);
-
-    maxDiameter = max(maxDiameter, left + right);
-
-    return 1 + max(left, right);
-}
-
-    int diameterOfBinaryTree(TreeNode* root) {
-        height(root);
-        return maxDiameter;
+    
+    int diameter(TreeNode* root, int& result) {
+        if(!root)
+            return 0;
+        
+        int left  = diameter(root->left, result);
+        int right = diameter(root->right, result);
+        
+        result = max(result, left + right); //What if I longest diamenter passes through left -> me -> right
+        
+        return max(left, right) + 1; //But I will return max I can afford if (left -> me -> right) was not answer
         
     }
+    
+    int diameterOfBinaryTree(TreeNode* root) {
+        if(!root)
+            return 0;
+        
+        int result = INT_MIN;
+        
+        diameter(root, result);
+        
+        return result;
+    }
 };
+
