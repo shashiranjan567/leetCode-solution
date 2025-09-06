@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/shashiranjan567/leetCode-solution/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shashiranjan567/leetCode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
