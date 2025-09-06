@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/shashiranjan567/leetCode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/shashiranjan567/leetCode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/shashiranjan567/leetCode-solution/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2416-evaluate-boolean-binary-tree) |
