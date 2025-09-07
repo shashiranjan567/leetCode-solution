@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/shashiranjan567/leetCode-solution/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/shashiranjan567/leetCode-solution/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/shashiranjan567/leetCode-solution/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/shashiranjan567/leetCode-solution/tree/master/0735-asteroid-collision) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shashiranjan567/leetCode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/shashiranjan567/leetCode-solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shashiranjan567/leetCode-solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shashiranjan567/leetCode-solution/tree/master/0739-daily-temperatures) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0654-maximum-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/shashiranjan567/leetCode-solution/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0652-find-duplicate-subtrees) |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0772-construct-quad-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0772-construct-quad-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashiranjan567/leetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/shashiranjan567/leetCode-solution/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0652-find-duplicate-subtrees) |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashiranjan567/leetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/shashiranjan567/leetCode-solution/tree/master/0832-binary-tree-pruning) |
@@ -633,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shashiranjan567/leetCode-solution/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/shashiranjan567/leetCode-solution/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/shashiranjan567/leetCode-solution/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/shashiranjan567/leetCode-solution/tree/master/0937-online-stock-span) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2573-remove-nodes-from-linked-list) |
