@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/shashiranjan567/leetCode-solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shashiranjan567/leetCode-solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shashiranjan567/leetCode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/shashiranjan567/leetCode-solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shashiranjan567/leetCode-solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shashiranjan567/leetCode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/shashiranjan567/leetCode-solution/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/shashiranjan567/leetCode-solution/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shashiranjan567/leetCode-solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shashiranjan567/leetCode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
