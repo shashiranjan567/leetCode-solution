@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shashiranjan567/leetCode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Data Stream
 |  |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1731-even-odd-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Simulation
 |  |
