@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shashiranjan567/leetCode-solution/tree/master/0231-power-of-two) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/shashiranjan567/leetCode-solution/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/shashiranjan567/leetCode-solution/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shashiranjan567/leetCode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1731-even-odd-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -641,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/shashiranjan567/leetCode-solution/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2416-evaluate-boolean-binary-tree) |
