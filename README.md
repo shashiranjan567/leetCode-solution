@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/shashiranjan567/leetCode-solution/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shashiranjan567/leetCode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/shashiranjan567/leetCode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/shashiranjan567/leetCode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shashiranjan567/leetCode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shashiranjan567/leetCode-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/shashiranjan567/leetCode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shashiranjan567/leetCode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3055-maximum-odd-binary-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/3055-maximum-odd-binary-number) |
 ## Breadth-First Search
