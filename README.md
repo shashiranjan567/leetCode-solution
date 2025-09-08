@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shashiranjan567/leetCode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3055-maximum-odd-binary-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/3055-maximum-odd-binary-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shashiranjan567/leetCode-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shashiranjan567/leetCode-solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2470-removing-stars-from-a-string) |
+| [3055-maximum-odd-binary-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/3055-maximum-odd-binary-number) |
 | [3447-clear-digits](https://github.com/shashiranjan567/leetCode-solution/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shashiranjan567/leetCode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shashiranjan567/leetCode-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shashiranjan567/leetCode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3055-maximum-odd-binary-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/3055-maximum-odd-binary-number) |
 ## Breadth-First Search
 |  |
 | ------- |
