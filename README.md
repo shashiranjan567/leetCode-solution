@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3292-earliest-second-to-mark-indices-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3292-earliest-second-to-mark-indices-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/shashiranjan567/leetCode-solution/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3292-earliest-second-to-mark-indices-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3292-earliest-second-to-mark-indices-i) |
 ## Backtracking
 |  |
 | ------- |
