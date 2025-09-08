@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1013-fibonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shashiranjan567/leetCode-solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/shashiranjan567/leetCode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Recursion
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/shashiranjan567/leetCode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3292-earliest-second-to-mark-indices-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/shashiranjan567/leetCode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shashiranjan567/leetCode-solution/tree/master/0231-power-of-two) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/shashiranjan567/leetCode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/shashiranjan567/leetCode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/shashiranjan567/leetCode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/shashiranjan567/leetCode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shashiranjan567/leetCode-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/shashiranjan567/leetCode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -639,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shashiranjan567/leetCode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3055-maximum-odd-binary-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/3055-maximum-odd-binary-number) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/shashiranjan567/leetCode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/shashiranjan567/leetCode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Breadth-First Search
 |  |
 | ------- |
