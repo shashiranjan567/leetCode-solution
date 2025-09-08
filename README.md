@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/shashiranjan567/leetCode-solution/tree/master/1197-parsing-a-boolean-expression) |
+| [1252-break-a-palindrome](https://github.com/shashiranjan567/leetCode-solution/tree/master/1252-break-a-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/shashiranjan567/leetCode-solution/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/shashiranjan567/leetCode-solution/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shashiranjan567/leetCode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/shashiranjan567/leetCode-solution/tree/master/0985-bag-of-tokens) |
+| [1252-break-a-palindrome](https://github.com/shashiranjan567/leetCode-solution/tree/master/1252-break-a-palindrome) |
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shashiranjan567/leetCode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
