@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/shashiranjan567/leetCode-solution/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/shashiranjan567/leetCode-solution/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/shashiranjan567/leetCode-solution/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/shashiranjan567/leetCode-solution/tree/master/0983-validate-stack-sequences) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shashiranjan567/leetCode-solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0726-number-of-atoms](https://github.com/shashiranjan567/leetCode-solution/tree/master/0726-number-of-atoms) |
+| [0917-boats-to-save-people](https://github.com/shashiranjan567/leetCode-solution/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/shashiranjan567/leetCode-solution/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/shashiranjan567/leetCode-solution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shashiranjan567/leetCode-solution/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/shashiranjan567/leetCode-solution/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/shashiranjan567/leetCode-solution/tree/master/0985-bag-of-tokens) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shashiranjan567/leetCode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/shashiranjan567/leetCode-solution/tree/master/0402-remove-k-digits) |
 | [0890-lemonade-change](https://github.com/shashiranjan567/leetCode-solution/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/shashiranjan567/leetCode-solution/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shashiranjan567/leetCode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/shashiranjan567/leetCode-solution/tree/master/0985-bag-of-tokens) |
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
