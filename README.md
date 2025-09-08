@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shashiranjan567/leetCode-solution/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0134-gas-station](https://github.com/shashiranjan567/leetCode-solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shashiranjan567/leetCode-solution/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shashiranjan567/leetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/shashiranjan567/leetCode-solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shashiranjan567/leetCode-solution/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/shashiranjan567/leetCode-solution/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/shashiranjan567/leetCode-solution/tree/master/0649-dota2-senate) |
