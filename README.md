@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shashiranjan567/leetCode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0624-maximum-distance-in-arrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/shashiranjan567/leetCode-solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shashiranjan567/leetCode-solution/tree/master/0735-asteroid-collision) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/shashiranjan567/leetCode-solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shashiranjan567/leetCode-solution/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/shashiranjan567/leetCode-solution/tree/master/0402-remove-k-digits) |
+| [0624-maximum-distance-in-arrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/shashiranjan567/leetCode-solution/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/shashiranjan567/leetCode-solution/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/shashiranjan567/leetCode-solution/tree/master/0917-boats-to-save-people) |
