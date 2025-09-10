@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/1033-broken-calculator) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shashiranjan567/leetCode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/shashiranjan567/leetCode-solution/tree/master/1252-break-a-palindrome) |
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
+| [1448-maximum-69-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shashiranjan567/leetCode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shashiranjan567/leetCode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
