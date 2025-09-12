@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shashiranjan567/leetCode-solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/shashiranjan567/leetCode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3292-earliest-second-to-mark-indices-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shashiranjan567/leetCode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shashiranjan567/leetCode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3055-maximum-odd-binary-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/3055-maximum-odd-binary-number) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shashiranjan567/leetCode-solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/shashiranjan567/leetCode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shashiranjan567/leetCode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shashiranjan567/leetCode-solution/tree/master/3351-maximize-happiness-of-selected-children) |
