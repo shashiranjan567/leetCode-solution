@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shashiranjan567/leetCode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shashiranjan567/leetCode-solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/shashiranjan567/leetCode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shashiranjan567/leetCode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shashiranjan567/leetCode-solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shashiranjan567/leetCode-solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shashiranjan567/leetCode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shashiranjan567/leetCode-solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shashiranjan567/leetCode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shashiranjan567/leetCode-solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shashiranjan567/leetCode-solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shashiranjan567/leetCode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3055-maximum-odd-binary-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/3055-maximum-odd-binary-number) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shashiranjan567/leetCode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shashiranjan567/leetCode-solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/shashiranjan567/leetCode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shashiranjan567/leetCode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
