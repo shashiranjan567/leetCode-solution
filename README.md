@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shashiranjan567/leetCode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shashiranjan567/leetCode-solution/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shashiranjan567/leetCode-solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/shashiranjan567/leetCode-solution/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shashiranjan567/leetCode-solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shashiranjan567/leetCode-solution/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shashiranjan567/leetCode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shashiranjan567/leetCode-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2032-largest-odd-number-in-string) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/shashiranjan567/leetCode-solution/tree/master/1499-maximum-performance-of-a-team) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shashiranjan567/leetCode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shashiranjan567/leetCode-solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shashiranjan567/leetCode-solution/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan567/leetCode-solution/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/shashiranjan567/leetCode-solution/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shashiranjan567/leetCode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shashiranjan567/leetCode-solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shashiranjan567/leetCode-solution/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shashiranjan567/leetCode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan567/leetCode-solution/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
