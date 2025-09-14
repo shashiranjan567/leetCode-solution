@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shashiranjan567/leetCode-solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2032-largest-odd-number-in-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2032-largest-odd-number-in-string) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shashiranjan567/leetCode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/shashiranjan567/leetCode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/shashiranjan567/leetCode-solution/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/shashiranjan567/leetCode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/shashiranjan567/leetCode-solution/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shashiranjan567/leetCode-solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shashiranjan567/leetCode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3055-maximum-odd-binary-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/3055-maximum-odd-binary-number) |
