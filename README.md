@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shashiranjan567/leetCode-solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1720-crawler-log-folder](https://github.com/shashiranjan567/leetCode-solution/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/shashiranjan567/leetCode-solution/tree/master/1755-defuse-the-bomb) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/shashiranjan567/leetCode-solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shashiranjan567/leetCode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/shashiranjan567/leetCode-solution/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan567/leetCode-solution/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shashiranjan567/leetCode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shashiranjan567/leetCode-solution/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/shashiranjan567/leetCode-solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shashiranjan567/leetCode-solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shashiranjan567/leetCode-solution/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shashiranjan567/leetCode-solution/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shashiranjan567/leetCode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/shashiranjan567/leetCode-solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/shashiranjan567/leetCode-solution/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2032-largest-odd-number-in-string) |
