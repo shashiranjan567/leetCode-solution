@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/1033-broken-calculator) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/shashiranjan567/leetCode-solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/shashiranjan567/leetCode-solution/tree/master/1197-parsing-a-boolean-expression) |
 | [1252-break-a-palindrome](https://github.com/shashiranjan567/leetCode-solution/tree/master/1252-break-a-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/shashiranjan567/leetCode-solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1720-crawler-log-folder](https://github.com/shashiranjan567/leetCode-solution/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shashiranjan567/leetCode-solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shashiranjan567/leetCode-solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1252-break-a-palindrome](https://github.com/shashiranjan567/leetCode-solution/tree/master/1252-break-a-palindrome) |
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/shashiranjan567/leetCode-solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1448-maximum-69-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1448-maximum-69-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/shashiranjan567/leetCode-solution/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1499-maximum-performance-of-a-team](https://github.com/shashiranjan567/leetCode-solution/tree/master/1499-maximum-performance-of-a-team) |
