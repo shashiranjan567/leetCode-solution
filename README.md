@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shashiranjan567/leetCode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/shashiranjan567/leetCode-solution/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0654-maximum-binary-tree) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/shashiranjan567/leetCode-solution/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shashiranjan567/leetCode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/shashiranjan567/leetCode-solution/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0652-find-duplicate-subtrees) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/shashiranjan567/leetCode-solution/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0726-number-of-atoms](https://github.com/shashiranjan567/leetCode-solution/tree/master/0726-number-of-atoms) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/shashiranjan567/leetCode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shashiranjan567/leetCode-solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/shashiranjan567/leetCode-solution/tree/master/0621-task-scheduler) |
 | [0726-number-of-atoms](https://github.com/shashiranjan567/leetCode-solution/tree/master/0726-number-of-atoms) |
 | [0917-boats-to-save-people](https://github.com/shashiranjan567/leetCode-solution/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/shashiranjan567/leetCode-solution/tree/master/0985-bag-of-tokens) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/shashiranjan567/leetCode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/shashiranjan567/leetCode-solution/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/shashiranjan567/leetCode-solution/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashiranjan567/leetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1499-maximum-performance-of-a-team](https://github.com/shashiranjan567/leetCode-solution/tree/master/1499-maximum-performance-of-a-team) |
@@ -673,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/shashiranjan567/leetCode-solution/tree/master/0621-task-scheduler) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shashiranjan567/leetCode-solution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shashiranjan567/leetCode-solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -714,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/shashiranjan567/leetCode-solution/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/shashiranjan567/leetCode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shashiranjan567/leetCode-solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/shashiranjan567/leetCode-solution/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/shashiranjan567/leetCode-solution/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/shashiranjan567/leetCode-solution/tree/master/0659-split-array-into-consecutive-subsequences) |
