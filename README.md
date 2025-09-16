@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/shashiranjan567/leetCode-solution/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shashiranjan567/leetCode-solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
 |  |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/shashiranjan567/leetCode-solution/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shashiranjan567/leetCode-solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shashiranjan567/leetCode-solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Game Theory
 |  |
