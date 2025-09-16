@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/shashiranjan567/leetCode-solution/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/shashiranjan567/leetCode-solution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shashiranjan567/leetCode-solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1095-two-city-scheduling](https://github.com/shashiranjan567/leetCode-solution/tree/master/1095-two-city-scheduling) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shashiranjan567/leetCode-solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/shashiranjan567/leetCode-solution/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/shashiranjan567/leetCode-solution/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/shashiranjan567/leetCode-solution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1095-two-city-scheduling](https://github.com/shashiranjan567/leetCode-solution/tree/master/1095-two-city-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1499-maximum-performance-of-a-team](https://github.com/shashiranjan567/leetCode-solution/tree/master/1499-maximum-performance-of-a-team) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/shashiranjan567/leetCode-solution/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shashiranjan567/leetCode-solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1095-two-city-scheduling](https://github.com/shashiranjan567/leetCode-solution/tree/master/1095-two-city-scheduling) |
 | [1252-break-a-palindrome](https://github.com/shashiranjan567/leetCode-solution/tree/master/1252-break-a-palindrome) |
 | [1285-balance-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1285-balance-a-binary-search-tree) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/shashiranjan567/leetCode-solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
