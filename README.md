@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashiranjan567/leetCode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shashiranjan567/leetCode-solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shashiranjan567/leetCode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shashiranjan567/leetCode-solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shashiranjan567/leetCode-solution/tree/master/0067-add-binary) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shashiranjan567/leetCode-solution/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/shashiranjan567/leetCode-solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shashiranjan567/leetCode-solution/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
