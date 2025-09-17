@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shashiranjan567/leetCode-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shashiranjan567/leetCode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shashiranjan567/leetCode-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Simulation
 |  |
 | ------- |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
 |  |
 | ------- |
