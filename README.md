@@ -885,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -962,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/shashiranjan567/leetCode-solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
 | ------- |
