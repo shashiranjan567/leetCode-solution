@@ -812,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1731-even-odd-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/shashiranjan567/leetCode-solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/shashiranjan567/leetCode-solution/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2121-find-if-path-exists-in-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/shashiranjan567/leetCode-solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shashiranjan567/leetCode-solution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0310-minimum-height-trees) |
 | [1275-validate-binary-tree-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/1275-validate-binary-tree-nodes) |
+| [2121-find-if-path-exists-in-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/shashiranjan567/leetCode-solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -987,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/1275-validate-binary-tree-nodes) |
+| [2121-find-if-path-exists-in-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Segment Tree
