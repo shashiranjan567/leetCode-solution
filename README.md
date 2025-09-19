@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/shashiranjan567/leetCode-solution/tree/master/1095-two-city-scheduling) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shashiranjan567/leetCode-solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/shashiranjan567/leetCode-solution/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shashiranjan567/leetCode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/shashiranjan567/leetCode-solution/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1499-maximum-performance-of-a-team](https://github.com/shashiranjan567/leetCode-solution/tree/master/1499-maximum-performance-of-a-team) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shashiranjan567/leetCode-solution/tree/master/1552-build-an-array-with-stack-operations) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shashiranjan567/leetCode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shashiranjan567/leetCode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/shashiranjan567/leetCode-solution/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0310-minimum-height-trees) |
 | [1275-validate-binary-tree-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/1275-validate-binary-tree-nodes) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shashiranjan567/leetCode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/shashiranjan567/leetCode-solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
