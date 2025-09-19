@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3292-earliest-second-to-mark-indices-i) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Simulation
 |  |
 | ------- |
@@ -987,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2439-longest-cycle-in-a-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1028,4 +1032,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/shashiranjan567/leetCode-solution/tree/master/2206-detonate-the-maximum-bombs) |
+## Shortest Path
+|  |
+| ------- |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 <!---LeetCode Topics End-->
