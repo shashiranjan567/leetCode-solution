@@ -831,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shashiranjan567/leetCode-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2439-longest-cycle-in-a-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Topological Sort
@@ -1017,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Segment Tree
 |  |
 | ------- |
