@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shashiranjan567/leetCode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/0113-path-sum-ii) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/shashiranjan567/leetCode-solution/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/shashiranjan567/leetCode-solution/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Bit Manipulation
 |  |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shashiranjan567/leetCode-solution/tree/master/0695-max-area-of-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/shashiranjan567/leetCode-solution/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shashiranjan567/leetCode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
