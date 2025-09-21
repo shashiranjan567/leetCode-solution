@@ -810,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/shashiranjan567/leetCode-solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shashiranjan567/leetCode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shashiranjan567/leetCode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/shashiranjan567/leetCode-solution/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shashiranjan567/leetCode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shashiranjan567/leetCode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/shashiranjan567/leetCode-solution/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/shashiranjan567/leetCode-solution/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0617-merge-two-binary-trees) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0310-minimum-height-trees) |
+| [0547-number-of-provinces](https://github.com/shashiranjan567/leetCode-solution/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shashiranjan567/leetCode-solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1275-validate-binary-tree-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/1275-validate-binary-tree-nodes) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shashiranjan567/leetCode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1025,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/shashiranjan567/leetCode-solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shashiranjan567/leetCode-solution/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shashiranjan567/leetCode-solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
