@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashiranjan567/leetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/shashiranjan567/leetCode-solution/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Queue
 |  |
 | ------- |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/shashiranjan567/leetCode-solution/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashiranjan567/leetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1499-maximum-performance-of-a-team](https://github.com/shashiranjan567/leetCode-solution/tree/master/1499-maximum-performance-of-a-team) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 ## Quickselect
 |  |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-longest-cycle-in-a-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Topological Sort
@@ -1075,5 +1078,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shashiranjan567/leetCode-solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 <!---LeetCode Topics End-->
