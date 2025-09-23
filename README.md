@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/shashiranjan567/leetCode-solution/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shashiranjan567/leetCode-solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 | [3386-find-edges-in-shortest-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/3386-find-edges-in-shortest-paths) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -999,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0772-construct-quad-tree) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shashiranjan567/leetCode-solution/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shashiranjan567/leetCode-solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1032,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3386-find-edges-in-shortest-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Topological Sort
 |  |
@@ -1084,5 +1088,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shashiranjan567/leetCode-solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3386-find-edges-in-shortest-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/3386-find-edges-in-shortest-paths) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 <!---LeetCode Topics End-->
