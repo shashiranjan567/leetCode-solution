@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0376-wiggle-subsequence](https://github.com/shashiranjan567/leetCode-solution/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/shashiranjan567/leetCode-solution/tree/master/0435-non-overlapping-intervals) |
+| [0514-freedom-trail](https://github.com/shashiranjan567/leetCode-solution/tree/master/0514-freedom-trail) |
 | [1013-fibonacci-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/1013-fibonacci-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/shashiranjan567/leetCode-solution/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shashiranjan567/leetCode-solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/shashiranjan567/leetCode-solution/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/shashiranjan567/leetCode-solution/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/shashiranjan567/leetCode-solution/tree/master/0449-serialize-and-deserialize-bst) |
+| [0514-freedom-trail](https://github.com/shashiranjan567/leetCode-solution/tree/master/0514-freedom-trail) |
 | [0649-dota2-senate](https://github.com/shashiranjan567/leetCode-solution/tree/master/0649-dota2-senate) |
 | [0726-number-of-atoms](https://github.com/shashiranjan567/leetCode-solution/tree/master/0726-number-of-atoms) |
 | [0869-similar-string-groups](https://github.com/shashiranjan567/leetCode-solution/tree/master/0869-similar-string-groups) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/shashiranjan567/leetCode-solution/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/shashiranjan567/leetCode-solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/shashiranjan567/leetCode-solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/shashiranjan567/leetCode-solution/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shashiranjan567/leetCode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shashiranjan567/leetCode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/shashiranjan567/leetCode-solution/tree/master/0547-number-of-provinces) |
@@ -887,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/shashiranjan567/leetCode-solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/shashiranjan567/leetCode-solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/shashiranjan567/leetCode-solution/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shashiranjan567/leetCode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shashiranjan567/leetCode-solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0543-diameter-of-binary-tree) |
