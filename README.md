@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/shashiranjan567/leetCode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/shashiranjan567/leetCode-solution/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/shashiranjan567/leetCode-solution/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashiranjan567/leetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1499-maximum-performance-of-a-team](https://github.com/shashiranjan567/leetCode-solution/tree/master/1499-maximum-performance-of-a-team) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 | [3386-find-edges-in-shortest-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/3386-find-edges-in-shortest-paths) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/shashiranjan567/leetCode-solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1009,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0772-construct-quad-tree) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shashiranjan567/leetCode-solution/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shashiranjan567/leetCode-solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Ordered Set
@@ -1036,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/shashiranjan567/leetCode-solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2439-longest-cycle-in-a-graph) |
@@ -1097,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shashiranjan567/leetCode-solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/3386-find-edges-in-shortest-paths) |
