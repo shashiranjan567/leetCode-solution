@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shashiranjan567/leetCode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shashiranjan567/leetCode-solution/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/shashiranjan567/leetCode-solution/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0744-network-delay-time](https://github.com/shashiranjan567/leetCode-solution/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shashiranjan567/leetCode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1499-maximum-performance-of-a-team](https://github.com/shashiranjan567/leetCode-solution/tree/master/1499-maximum-performance-of-a-team) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/shashiranjan567/leetCode-solution/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/shashiranjan567/leetCode-solution/tree/master/0744-network-delay-time) |
 | [0869-similar-string-groups](https://github.com/shashiranjan567/leetCode-solution/tree/master/0869-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/shashiranjan567/leetCode-solution/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/shashiranjan567/leetCode-solution/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0832-binary-tree-pruning](https://github.com/shashiranjan567/leetCode-solution/tree/master/0832-binary-tree-pruning) |
 | [0869-similar-string-groups](https://github.com/shashiranjan567/leetCode-solution/tree/master/0869-similar-string-groups) |
@@ -1037,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/shashiranjan567/leetCode-solution/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/shashiranjan567/leetCode-solution/tree/master/0744-network-delay-time) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shashiranjan567/leetCode-solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1275-validate-binary-tree-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/1275-validate-binary-tree-nodes) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shashiranjan567/leetCode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1108,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/shashiranjan567/leetCode-solution/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shashiranjan567/leetCode-solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
