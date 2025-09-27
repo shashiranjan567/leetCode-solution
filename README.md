@@ -861,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1731-even-odd-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shashiranjan567/leetCode-solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2121-find-if-path-exists-in-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/shashiranjan567/leetCode-solution/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/shashiranjan567/leetCode-solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1052,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shashiranjan567/leetCode-solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shashiranjan567/leetCode-solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2121-find-if-path-exists-in-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/shashiranjan567/leetCode-solution/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/shashiranjan567/leetCode-solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1122,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/shashiranjan567/leetCode-solution/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shashiranjan567/leetCode-solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shashiranjan567/leetCode-solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/shashiranjan567/leetCode-solution/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shashiranjan567/leetCode-solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
