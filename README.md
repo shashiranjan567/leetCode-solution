@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/shashiranjan567/leetCode-solution/tree/master/2206-detonate-the-maximum-bombs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shashiranjan567/leetCode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2827-greatest-common-divisor-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/2827-greatest-common-divisor-traversal) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3055-maximum-odd-binary-number](https://github.com/shashiranjan567/leetCode-solution/tree/master/3055-maximum-odd-binary-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/shashiranjan567/leetCode-solution/tree/master/2689-rearranging-fruits) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shashiranjan567/leetCode-solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2827-greatest-common-divisor-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/2827-greatest-common-divisor-traversal) |
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/shashiranjan567/leetCode-solution/tree/master/2868-continuous-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shashiranjan567/leetCode-solution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2827-greatest-common-divisor-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/2827-greatest-common-divisor-traversal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shashiranjan567/leetCode-solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Reservoir Sampling
 |  |
@@ -1114,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/shashiranjan567/leetCode-solution/tree/master/2793-count-the-number-of-complete-components) |
+| [2827-greatest-common-divisor-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/2827-greatest-common-divisor-traversal) |
 ## Segment Tree
 |  |
 | ------- |
