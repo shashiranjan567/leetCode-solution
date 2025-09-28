@@ -881,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shashiranjan567/leetCode-solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/shashiranjan567/leetCode-solution/tree/master/2793-count-the-number-of-complete-components) |
 | [3386-find-edges-in-shortest-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2793-count-the-number-of-complete-components](https://github.com/shashiranjan567/leetCode-solution/tree/master/2793-count-the-number-of-complete-components) |
 | [3386-find-edges-in-shortest-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1073,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shashiranjan567/leetCode-solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/shashiranjan567/leetCode-solution/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/shashiranjan567/leetCode-solution/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/3386-find-edges-in-shortest-paths) |
@@ -1110,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/shashiranjan567/leetCode-solution/tree/master/2793-count-the-number-of-complete-components) |
 ## Segment Tree
 |  |
 | ------- |
