@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/shashiranjan567/leetCode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3292-earliest-second-to-mark-indices-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shashiranjan567/leetCode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shashiranjan567/leetCode-solution/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shashiranjan567/leetCode-solution/tree/master/0231-power-of-two) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shashiranjan567/leetCode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Hash Table
 |  |
 | ------- |
@@ -1081,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/shashiranjan567/leetCode-solution/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/shashiranjan567/leetCode-solution/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3386-find-edges-in-shortest-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1118,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/shashiranjan567/leetCode-solution/tree/master/2793-count-the-number-of-complete-components) |
 | [2827-greatest-common-divisor-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/2827-greatest-common-divisor-traversal) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Segment Tree
 |  |
 | ------- |
