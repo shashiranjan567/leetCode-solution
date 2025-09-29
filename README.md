@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/shashiranjan567/leetCode-solution/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2505-number-of-good-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/2505-number-of-good-paths) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2487-optimal-partition-of-string](https://github.com/shashiranjan567/leetCode-solution/tree/master/2487-optimal-partition-of-string) |
+| [2505-number-of-good-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/2505-number-of-good-paths) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2689-rearranging-fruits](https://github.com/shashiranjan567/leetCode-solution/tree/master/2689-rearranging-fruits) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/shashiranjan567/leetCode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/shashiranjan567/leetCode-solution/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2505-number-of-good-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/2505-number-of-good-paths) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/shashiranjan567/leetCode-solution/tree/master/2689-rearranging-fruits) |
 | [2846-robot-collisions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2846-robot-collisions) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-evaluate-boolean-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashiranjan567/leetCode-solution/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2505-number-of-good-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/2505-number-of-good-paths) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shashiranjan567/leetCode-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1076,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2439-longest-cycle-in-a-graph) |
+| [2505-number-of-good-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/shashiranjan567/leetCode-solution/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -1118,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2213-find-all-people-with-secret](https://github.com/shashiranjan567/leetCode-solution/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2505-number-of-good-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/shashiranjan567/leetCode-solution/tree/master/2793-count-the-number-of-complete-components) |
 | [2827-greatest-common-divisor-traversal](https://github.com/shashiranjan567/leetCode-solution/tree/master/2827-greatest-common-divisor-traversal) |
