@@ -1078,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shashiranjan567/leetCode-solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/shashiranjan567/leetCode-solution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1916-find-center-of-star-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shashiranjan567/leetCode-solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/shashiranjan567/leetCode-solution/tree/master/2171-second-minimum-time-to-reach-destination) |
