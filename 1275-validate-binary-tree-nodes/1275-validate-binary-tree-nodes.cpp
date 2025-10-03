@@ -1,92 +1,51 @@
-//Approach-1 (Using simple BFS or DFS and Binary Tree Property)
-//Find it in my "Binary Tree" repo
+//Approach-1 (Using DSU)
 class Solution {
 public:
-    bool validateBinaryTreeNodes(int n, vector<int>& leftChild, vector<int>& rightChild) {
-        unordered_map<int, vector<int>> parent_to_children;
-        unordered_map<int, int> child_to_parent;
+    vector<int> parent;
+    int components;
 
-        for(int i = 0; i<n; i++) {
-
-            int node   = i;
-            int leftC  = leftChild[i];
-            int rightC = rightChild[i];
-
-            if(leftC != -1) {
-                parent_to_children[node].push_back(leftC);
-
-                if(child_to_parent.find(leftC) != child_to_parent.end()) {
-                    return false;
-                } else {
-                    child_to_parent[leftC] = node;
-                }
-            }
-
-            if(rightC != -1) {
-                parent_to_children[node].push_back(rightC);
-
-                if(child_to_parent.find(rightC) != child_to_parent.end()) {
-                    return false;
-                } else {
-                    child_to_parent[rightC] = node;
-                }
-            }
-
-        }
-
-        int root = -1;
+    int find(int x) {
+        if(parent[x] == x)
+            return x;
         
-        for(int i = 0; i<n; i++) {
-            if(child_to_parent.find(i) == child_to_parent.end()) {
-                if(root != -1)
-                    return false;
-                else
-                    root = i;
-            }
-        }
-        if(root == -1)
+        return parent[x] = find(parent[x]);
+    }
+
+    bool Union(int par, int child) {
+        int child_ka_parent  = find(child);
+    
+        //child_ka_parent != child --> Child had already some other parent
+        if(child_ka_parent != child)
             return false;
-
-        /*
-            You might be thinking, if we already checked that there is only one root above
-            and every child has one parent only, why do we need to traverse and check again
-            for components ?
-
-            There can be cases where you find that only one node is missing from child_to_parent map
-            which you will assume as root but that root will belong to a separate component.
-            For example : 
-            4
-            [1,0,3,-1]
-            [-1,-1,-1,-1]
-            
-        */
-        vector<bool> visited(n, false);
-        queue<int> que;
-        int count = 1;
-        que.push(root);
-        visited[root] = true;
         
-        while(!que.empty()) { 
-            int node = que.front();
-            que.pop();
-
-            for(int &child : parent_to_children[node]) {
-                if(!visited[child]) {
-                    visited[child] = true;
-                    count++;
-                    que.push(child);
-                }
-            }
-
+        int parent_ka_parent = find(par);
+        //parent_ka_parent == child_ka_parent ---> Parallel edge (It means, already they were connected by another edge)
+        if (parent_ka_parent == child_ka_parent) {
+            return false;
+        }
+        
+        parent[child] = par;
+        components--;
+        return true;
+    }
+    
+    bool validateBinaryTreeNodes(int n, vector<int>& leftChild, vector<int>& rightChild) {
+        components = n;
+        parent.resize(n);
+        for(int i = 0; i<n; i++) {
+            parent[i] = i;
         }
 
-        return count == n; // we should be able to visit all nodes during BFS/DFS
-
+        for (int i = 0; i < n; i++) {
+            if (leftChild[i] >= 0 && !Union(i, leftChild[i])) {
+                return false;
+            }
+            if (rightChild[i] >= 0 && !Union(i, rightChild[i])) {
+                return false;
+            }
+        }
+        
+        return components == 1;
     }
 };
-
-
-
-
-
 
