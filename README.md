@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/shashiranjan567/leetCode-solution/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/shashiranjan567/leetCode-solution/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1032-satisfiability-of-equality-equations](https://github.com/shashiranjan567/leetCode-solution/tree/master/1032-satisfiability-of-equality-equations) |
+| [1036-rotting-oranges](https://github.com/shashiranjan567/leetCode-solution/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shashiranjan567/leetCode-solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/shashiranjan567/leetCode-solution/tree/master/1095-two-city-scheduling) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shashiranjan567/leetCode-solution/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/shashiranjan567/leetCode-solution/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/shashiranjan567/leetCode-solution/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shashiranjan567/leetCode-solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shashiranjan567/leetCode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shashiranjan567/leetCode-solution/tree/master/0085-maximal-rectangle) |
 | [0695-max-area-of-island](https://github.com/shashiranjan567/leetCode-solution/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/0772-construct-quad-tree) |
+| [1036-rotting-oranges](https://github.com/shashiranjan567/leetCode-solution/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shashiranjan567/leetCode-solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shashiranjan567/leetCode-solution/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1876-map-of-highest-peak](https://github.com/shashiranjan567/leetCode-solution/tree/master/1876-map-of-highest-peak) |
