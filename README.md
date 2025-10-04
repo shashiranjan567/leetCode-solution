@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/shashiranjan567/leetCode-solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shashiranjan567/leetCode-solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/shashiranjan567/leetCode-solution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shashiranjan567/leetCode-solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String
 |  |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shashiranjan567/leetCode-solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/shashiranjan567/leetCode-solution/tree/master/2793-count-the-number-of-complete-components) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/shashiranjan567/leetCode-solution/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/shashiranjan567/leetCode-solution/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3386-find-edges-in-shortest-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
