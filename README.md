@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/shashiranjan567/leetCode-solution/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/shashiranjan567/leetCode-solution/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2472-build-a-matrix-with-conditions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2505-number-of-good-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/2505-number-of-good-paths) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shashiranjan567/leetCode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/shashiranjan567/leetCode-solution/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shashiranjan567/leetCode-solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shashiranjan567/leetCode-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2472-build-a-matrix-with-conditions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shashiranjan567/leetCode-solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shashiranjan567/leetCode-solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shashiranjan567/leetCode-solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1098,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shashiranjan567/leetCode-solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2439-longest-cycle-in-a-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2505-number-of-good-paths](https://github.com/shashiranjan567/leetCode-solution/tree/master/2505-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shashiranjan567/leetCode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shashiranjan567/leetCode-solution/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -1121,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/shashiranjan567/leetCode-solution/tree/master/0310-minimum-height-trees) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shashiranjan567/leetCode-solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2439-longest-cycle-in-a-graph](https://github.com/shashiranjan567/leetCode-solution/tree/master/2439-longest-cycle-in-a-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/shashiranjan567/leetCode-solution/tree/master/2472-build-a-matrix-with-conditions) |
 ## String Matching
 |  |
 | ------- |
